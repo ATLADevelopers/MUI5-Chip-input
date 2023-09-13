@@ -1,6 +1,6 @@
 {
-  "name": "material-ui-chip-input",
-  "version": "2.0.0-beta.2",
+  "name": "mui5-chip-input",
+  "version": "1.0.0",
   "typings": "typings/index.d.ts",
   "description": "A chip input field using Material-UI.",
   "main": "lib/ChipInput.js",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamWertarbyte/material-ui-chip-input.git"
+    "url": "git+https://github.com/ATLADevelopers/MUI5-Chip-input.git"
   },
   "keywords": [
     "react",
@@ -38,9 +38,9 @@
   "author": "Wertarbyte <kontakt@wertarbyte.com> (https://wertarbyte.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TeamWertarbyte/material-ui-chip-input/issues"
+    "url": "https://github.com/ATLADevelopers/MUI5-Chip-input/issues"
   },
-  "homepage": "https://github.com/TeamWertarbyte/material-ui-chip-input#readme",
+  "homepage": "https://github.com/ATLADevelopers/MUI5-Chip-input#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
